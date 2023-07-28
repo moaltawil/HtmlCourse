@@ -123,6 +123,53 @@
 ```
 
 ```
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="description" content="This is my web site"/>
+   <title>mohammed eltawil</title>
+   <style></style>
+   <script></script>
+   <link rel="stylesheet" href=""/>
+    </head>
 
+    <body>
+        <h1> Hey there, I'm Mohammed Eltawil - Welcome to my world </h1>   
+        <!-- 
+            thead
+            tbody
+            tfood
+            tr => table row
+            td => Table Data Cell    
+        -->
+         <table border="1">
+            <caption>Students Mark</caption>
+          <thead>
+            <tr>
+                <th>First</th>
+                <th>Mid</th>
+                <th>last</th>
+            </tr>
+            
+          </thead>
+          <tbody>
+            <tr>
+                <td>dcvdv</td>
+                <td>dvdv</td>
+                <td>500</td>
+            </tr>
+          </tbody>
+
+          <tfoot>
+            <td colspan="2">total</td>
+            <td>500</td>
+          </tfoot>
+         </table>
+
+    </body>
+</html>
+```
 ```
 
+```
