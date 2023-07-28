@@ -257,5 +257,33 @@
 ```
 
 ```
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="This is my web site" />
+    <title>mohammed eltawil</title>
+    <style></style>
+    <script></script>
+    <link rel="stylesheet" href="" />
+</head>
+
+<body>
+
+    <header>Head of website</header>
+    <nav>Link - Link - Link</nav>
+    <section>
+        <section></section>
+        <aside></aside>
+    </section>
+
+</body>
+
+</html>
+```
+
+```
+
 
 ```
