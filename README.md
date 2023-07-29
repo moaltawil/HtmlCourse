@@ -683,6 +683,46 @@
 
 
 ```
+<!DOCTYPE html>
+<html>
 
+<head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="This is my web site" />
+    <title>mohammed eltawil</title>
+    <style></style>
+    <script></script>
+    <link rel="stylesheet" href="" />
+</head>
+
+<body>
+
+    <q>This is wise Word</q>
+    <blockquote>his is wise Word</blockquote>
+    <button>Click</button>
+    <div>
+        https://github.com/<wbr>/HtmlCourse/<wbr>/main/README.md
+    </div>
+
+    <p><bdi>محمد</bdi>84fkjsfsf</p>
+
+
+    <p>
+        This is p
+        New Line
+        New Line
+    </p>
+    <pre>        <!-- بحافظ على التنسيقات والمسافات -->
+        <code>
+            var x =20;
+            var y =50;
+        </code>
+    </pre>
+
+    <iframe src="https://elzero.org/" width="800" height="400"></iframe>
+
+</body>
+
+</html>
 
 ```
