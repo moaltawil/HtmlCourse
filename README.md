@@ -386,6 +386,38 @@
 </html>
 ```
 ```
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="This is my web site" />
+    <title>mohammed eltawil</title>
+    <style></style>
+    <script></script>
+    <link rel="stylesheet" href="" />
+</head>
+
+<body>
+
+    <div>
+        <h1>hello</h1>
+        <p>ejwlfef</p>
+    </div>
+
+    <audio controls autoplay loop muted>
+        <source src="lkjglr.mp3" type="audio/mpeg">
+        <source src="khk.ogg" type="audio/ogg">
+        <source src="fdshgf.wav" type="audio/wav">
+        Your Brouser Does not Support Audio Tages //في حالة المتصفحات التي لاتدعم يظهر له هذه الرسالة
+    </audio>
+
+</body>
+
+</html>
+```
+
+```
 
 ```
 
