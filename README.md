@@ -332,7 +332,60 @@
 ```
 
 ```
+<!DOCTYPE html>
+<html>
 
+<head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="This is my web site" />
+    <title>mohammed eltawil</title>
+    <style></style>
+    <script></script>
+    <link rel="stylesheet" href="" />
+</head>
+
+<body>
+
+    <header> //تعامل معاملة الدف لكن تسميتها اكتر منطقية ودلالة
+        <h2>Logo</h2>
+        <ul>
+            <li>Home</li>
+            <li>About</li>
+            <li>Services</li>
+            <li>Contact Us</li>
+        </ul>
+    </header>
+    <hr>
+    <nav>
+        <li>Link</li>
+        <li>Link</li>
+        <li>Link</li>
+    </nav>
+
+    <hr>
+    <section>
+        <figure> //للصورة والكابشن تعتها
+            <img src="" alt="">
+            <figcaption>ekejrkgj</f igcaption>
+        </figure>
+    </section>
+
+    <article>
+        article
+    </article>
+    <aside>
+        Sidebar
+    </aside>
+    <hr>
+    <footer>
+        Footer
+    </footer>
+
+</body>
+
+</html>
+```
 ```
 
+```
 
