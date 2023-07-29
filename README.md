@@ -561,5 +561,128 @@
 
 
 ```
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="This is my web site" />
+    <title>mohammed eltawil</title>
+    <style></style>
+    <script></script>
+    <link rel="stylesheet" href="" />
+</head>
+
+<body>
+
+    <div>
+        <h1>hello</h1>
+        <p>ejwlfef</p>
+    </div>
+
+    <form action="" method="get">
+
+
+        <label for="book">Choose Book</label>
+        <select name="book" id="book">
+            <optgroup label="Romantic">
+                <option value="1">Book1</option>
+                <option selected value="2">Book2</option>
+                <option value="3">Book3</option>
+            </optgroup>
+            <optgroup label="Police">
+                <option value="4">Book4</option>
+                <option value="5">Book5</option>
+                <option value="6">Book6</option>
+            </optgroup>
+        </select>
+        <hr>
+        <textarea name="subject" placeholder="Text" cols="30" rows="10"></textarea>
+        <hr>
+
+        <input type="reset">
+        <input type="submit">
+
+
+    </form>
+
+</body>
+
+</html>
+```
+
+```
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="This is my web site" />
+    <title>mohammed eltawil</title>
+    <style></style>
+    <script></script>
+    <link rel="stylesheet" href="" />
+</head>
+
+<body>
+
+    <div>
+        <h1>hello</h1>
+        <p>ejwlfef</p>
+    </div>
+
+    <form action="" method="get" novalidate target="_blank">
+        <!-- في مرحلة الاختبار بتلزم البلانك -->
+
+
+        <div>
+            <label>Upload</label>
+            <input type="file">
+        </div>
+        <br>
+
+        <div>
+            <label>Search</label>
+            <input type="search">
+        </div>
+        <br>
+
+        <div>
+            <label>Url</label>
+            <input type="url">
+        </div>
+        <br>
+
+        <div>
+            <label>Date</label>
+            <input type="date">
+        </div>
+        <br>
+        <div>
+            <label>Month</label>
+            <input type="month">
+        </div>
+        <br>
+        <div>
+            <label>Time</label>
+            <input type="time">
+        </div>
+        <br>
+
+        <input type="reset">
+        <input type="submit">
+
+
+    </form>
+
+</body>
+
+</html>
+```
+
+
+
+```
+
 
 ```
