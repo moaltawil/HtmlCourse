@@ -284,6 +284,55 @@
 ```
 
 ```
+<!DOCTYPE html>
+<html>
 
+<head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="This is my web site" />
+    <title>mohammed eltawil</title>
+    <style></style>
+    <script></script>
+    <link rel="stylesheet" href="" />
+</head>
+
+<body>
+
+    <div class="header">
+        <h2>Logo</h2>
+        <ul>
+            <li>Home</li>
+            <li>About</li>
+            <li>Services</li>
+            <li>Contact Us</li>
+        </ul>
+    </div>
+    <hr>
+    <ul class="navigation">
+        <li>Link</li>
+        <li>Link</li>
+        <li>Link</li>
+    </ul>
+
+    <hr>
+    <div class="Content">
+        Content
+    </div>
+    <div class="Sidebar">
+        Sidebar
+    </div>
+    <hr>
+    <div class="footer">
+        Footer
+    </div>
+
+</body>
+
+</html>
+```
 
 ```
+
+```
+
+
