@@ -418,6 +418,148 @@
 ```
 
 ```
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="This is my web site" />
+    <title>mohammed eltawil</title>
+    <style></style>
+    <script></script>
+    <link rel="stylesheet" href="" />
+</head>
+
+<body>
+
+    <div>
+        <h1>hello</h1>
+        <p>ejwlfef</p>
+    </div>
+
+    <video controls width="600" height="400" autoplay loop muted poster="images/mo.jpg">
+        <source src="fgdh.mp4" type="video/mp4">
+        <source src="fgdh.ogg" type="video/ogg"> //اكتر من امتداد في حال كان المتصفح لايدعم mp4
+        Your Brouser Does Not Support Video Tag
+        <track src="" kind="" srclang="en" label="English"> //لملف الترجمة للفيد
+        <track src="" kind="" srclang="it" label="Italian">
+    </video>
+
+</body>
+
+</html>
+```
+
+```
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="This is my web site" />
+    <title>mohammed eltawil</title>
+    <style></style>
+    <script></script>
+    <link rel="stylesheet" href="" />
+</head>
+
+<body>
+
+    <div>
+        <h1>hello</h1>
+        <p>ejwlfef</p>
+    </div>
+
+    <form action="" method="get">
+        <div>
+            <label>UserName</label>
+            <input type="text" required placeholder="UserName" name="user" value="mohammed" readonly>
+        </div>
+        <br>
+
+        <div>
+            <label>Subject</label>
+            <input type="text" name="sub" autofocus>
+        </div>
+        <br>
+        <div>
+            <label>password</label>
+            <input type="password" required placeholder="Write a complex password" name="password" minlength="10"
+                maxlength="20">
+        </div>
+        <br>
+        <div>
+            <label>Email</label>
+            <input type="email" required placeholder="Write a valid email" value="sfs@df" disabled name="email">
+            <!-- disabled لايبعت بيانات -->
+            <!-- readonly ببعت بيانات -->
+        </div>
+        <br>
+        <div>
+            <label>Color</label>
+            <input type="color" name="color">
+        </div>
+        <br>
+        <div>
+            <label>Range</label>
+            <input type="range" name="range" min="0" max="100" step="20" value="0">
+        </div>
+        <br>
+        <div>
+            <label for="j">Number</label>
+            <input id="j" type="number" name="number" min="10" max="100" step="10">
+        </div>
+        <br>
+
+        <div>
+            <input type="radio" id="lin" name="os" value="windows" checked>
+            <label for="lin">windows</label>
+        </div>
+        <br>
+
+        <div>
+            <input id="win" type="radio" name="os" value="Linux">
+            <label for="win">Linux</label>
+        </div>
+        <br>
+
+        <div>
+            <input id="h" type="radio" name="os" value="Mac">
+            <label for="h">Mac</label>
+        </div>
+        <br>
+
+        <div>
+            <input type="checkbox" id="lin1" name="os" value="windows" checked>
+            <label for="lin1">windows</label>
+        </div>
+        <br>
+
+        <div>
+            <input id="win2" type="checkbox" name="os" value="Linux">
+            <label for="win2">Linux</label>
+        </div>
+        <br>
+
+        <div>
+            <input id="h1" type="checkbox" name="os" value="Mac">
+            <label for="h1">Mac</label>
+        </div>
+        <br>
+
+
+        <input type="reset">
+        <input type="submit">
+
+
+    </form>
+
+</body>
+
+</html>
+```
+
 
 ```
 
+```
